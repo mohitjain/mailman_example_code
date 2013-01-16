@@ -18,7 +18,7 @@ link:https://github.com/titanous/mailman
 
 6. Send an email to email specified in the script/mailman_server file and you can see new messages at http://localhost:3000/messages. Attachments are also handled properly in this demo app. 
 
-7. Contact me in case you have any issues.   
+7. Contact me in case you have any issues. link: http://www.codebeerstartups.com/contact/  
    
 == See a blog post on the same code
 4. More information about this application can be found at:
